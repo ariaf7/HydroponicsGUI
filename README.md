@@ -13,9 +13,9 @@ https://www.python.org/downloads/
 
 # Create a virtual environment (stay in for remaining steps)
 
-python -m venv hydro
-source hydro/bin/activate  
-or hydro\Scripts\activate on Windows
+python3 -m venv hydro
+
+source hydro/bin/activate or hydro\Scripts\activate on Windows
 
 # Upgrade pip
 pip install --upgrade pip
