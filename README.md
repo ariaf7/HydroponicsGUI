@@ -11,14 +11,17 @@ This desktop app allows you to crop, timelapse, and mask plant images using Free
 # Download python
 https://www.python.org/downloads/
 
-# Create a virtual environment
-python -m venv hydro
-source hydro/bin/activate  # or hydro\Scripts\activate on Windows
+# Create a virtual environment (stay in for remaining steps)
 
-# Once in virtual environment, upgrade pip
+python -m venv hydro
+source hydro/bin/activate  
+or hydro\Scripts\activate on Windows
+
+# Upgrade pip
 pip install --upgrade pip
 
-# Still in the VE, cd into the folder of the hydroponic analysis code
+# cd
+cd into the proper directory of the folder with the code downloaded
 
 # Install dependencies
 pip install -r requirements.txt
