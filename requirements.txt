@@ -1,0 +1,7 @@
+freesimplegui
+opencv-python
+matplotlib
+numpy
+plantcv
+pandas
+seaborn
